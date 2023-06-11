@@ -18,7 +18,7 @@ To create a Birthday card using HTML and CSS
 ## CODE:
 
 ### BIRTHDAY.HTML
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,7 +46,7 @@ To create a Birthday card using HTML and CSS
 
 
 
-
+```
 ## OUTPUT:
 ![image](https://github.com/Aashima02/Birthday-Card/assets/93427086/c8c7973a-def4-4328-9e45-687bbc6cc3bf)
 
